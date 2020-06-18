@@ -9,13 +9,15 @@ export default function Hero() {
       <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
         <img
           className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
-          alt="hero"
+          alt="Black and white illustration of a man half sitting"
           src={Leo}
         />
         <div className="text-center lg:w-2/3 w-full">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-            Hi, I'm Leonardo. I love doing web dev stuff.
+            Hi, I'm Leonardo. I love building web dev projects.
           </h1>
+          {/* <p class="mb-8 leading-relaxed">Testing</p> */}
+
           <div className="flex justify-center">
             <a
               href="https://github.com/leonardomjq"
