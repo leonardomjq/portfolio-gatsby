@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return c}));var u=n("q1tI"),a=n.n(u);function c(){return a.a.createElement("div",{className:"p-8"},a.a.createElement("button",{className:"py-4 px-4 bg-blue-600 hover:bg-blue-700 rounded text-white"},"Button One"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-e0fde2aff0dbae083530.js.map
